@@ -1,1 +1,1 @@
-# gradle-sample-master
+# gradle-sample
